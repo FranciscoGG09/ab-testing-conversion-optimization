@@ -127,11 +127,10 @@ El repositorio utiliza datos anonimizados o generados sintéticamente para demos
 ---
 ## 👨‍💻 Autor
 
-Desarrollado por Francisco González.
+Desarrollado por **Francisco González**.
 
-    LinkedIn: www.linkedin.com/in/francisco-javi-gonzalez-garcia
-
-    GitHub: @FranciscoGG09
+* **LinkedIn:** [linkedin.com/in/francisco-gonzalez](https://linkedin.com/in/francisco-javi-gonzalez-garcia)
+* **GitHub:** [@FranciscoGG09](https://github.com/FranciscoGG09)
 ---
 ## 📄 Licencia
 
